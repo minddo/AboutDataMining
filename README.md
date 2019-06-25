@@ -1,0 +1,2 @@
+# AboutDataMining
+Class assignment
