@@ -1,2 +1,2 @@
 # AboutDataMining
-Class assignment
+Class assignment(KSE525)
